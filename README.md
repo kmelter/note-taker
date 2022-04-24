@@ -18,3 +18,6 @@ https://github.com/kmelter/note-taker
 
 ## Deployed Heroku Link
 https://tranquil-coast-74175.herokuapp.com/
+
+## Screenshot
+![Alt text](./public/assets/images/tranquil-coast-74175.herokuapp.com_.png)
