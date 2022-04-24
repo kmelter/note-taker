@@ -139,6 +139,7 @@ const renderNoteList = async (notes) => {
 
     if (delBtn) {
       const delBtnEl = document.createElement('i');
+      delBtnEl.setAttribute('onClick', 'document.location.reload(true)');
       delBtnEl.classList.add(
         'fas',
         'fa-trash-alt',
